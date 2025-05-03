@@ -2,9 +2,9 @@
 
 // dynamic parameters
 define("db_host", "localhost");
-define("db_user", "u518471471_rr");
-define("db_pass", "Roshan@0071");
-define("db_name", "u518471471_rr");
+define("db_user", "u824923095_new_flip");
+define("db_pass", "3Tj[IpPP/B4t");
+define("db_name", "u824923095_new_flip");
 
 define("IS_DEVELOPMENT", false);
 define("IS_PRODUCTION", (!IS_DEVELOPMENT));
